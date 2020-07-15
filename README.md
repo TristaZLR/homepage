@@ -1,4 +1,2 @@
-# Initial page
-
-hello
+# About my research
 
